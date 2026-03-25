@@ -1,0 +1,74 @@
+{
+  "title": "Axiom Conflict Handling Protocol with Action Dispatch Interface (ACHP-ADI): Deterministic Handling and Attestation of Unresolved Decision States in Probabilistic AI Systems",
+  "short_title": "ACHP-ADI Non-Instantiation Architecture",
+  "inventor": "Richard Davis",
+  "affiliation": "GoBestow / ARC/R3P",
+  "publication_date": "2026-03-23",
+  "version": "v4.2",
+  "document_type": "Defensive Technical Publication",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "non-instantiation",
+    "AI safety",
+    "execution gating",
+    "negative attestation",
+    "deterministic replay",
+    "probabilistic inference",
+    "edge computing",
+    "cryptographic audit",
+    "decision margin",
+    "safety-critical systems",
+    "tamper-evident logging",
+    "hardware isolation",
+    "conflict handling",
+    "action dispatch interface",
+    "authority-state derivation"
+  ],
+  "domains": [
+    "Artificial intelligence decision systems",
+    "Probabilistic inference engines",
+    "Edge computing",
+    "Cryptographic audit trails",
+    "Safety-critical autonomous systems",
+    "Robotic actuation",
+    "Sensor fusion",
+    "API enforcement",
+    "Regulatory compliance"
+  ],
+  "classification": {
+    "CPC": [
+      "G06F21/00",
+      "G06N20/00",
+      "G06F11/00",
+      "H04L9/32"
+    ],
+    "IPC": [
+      "G06F21/60",
+      "G06N3/00"
+    ]
+  },
+  "prior_art_references": [
+    {
+      "id": "chow1970",
+      "citation": "C. K. Chow, 'On Optimum Recognition Error and Reject Tradeoff,' IEEE Transactions on Information Theory, Vol. 16, No. 1, 1970",
+      "relevance": "Threshold-based classification rejection"
+    },
+    {
+      "id": "jackson2019",
+      "citation": "D. Jackson, J. DeCastro, S. Kong et al., 'Certified Control for Self-Driving Cars,' MIT CSAIL / Toyota Research Institute, 2019-2020",
+      "relevance": "Independent certifier, non-bypassable gating, fallback"
+    },
+    {
+      "id": "geifman2017",
+      "citation": "Y. Geifman and R. El-Yaniv, 'Selective Classification for Deep Neural Networks,' NeurIPS, 2017",
+      "relevance": "Learned abstention mechanisms"
+    },
+    {
+      "id": "geifman2019",
+      "citation": "Y. Geifman and R. El-Yaniv, 'SelectiveNet: A Deep Neural Network with an Integrated Reject Option,' ICML, 2019",
+      "relevance": "Learned rejection thresholds"
+    }
+  ],
+  "repository": "achp-adi-non-instantiation-architecture",
+  "canonical_specification": "SPECIFICATION.md"
+}
